@@ -7,7 +7,7 @@ Jeune Technicien supérieur systèmes et réseaux passionné par les technologie
 Dans ce dépôt, vous trouverez une série de laboratoires et projets qui illustrent mes compétences techniques et ma capacité à résoudre des défis IT réels grâce à des approches professionnelles.
 
 
-## 👨‍💻 **Projets et Laboratoires en IT :**
+## 👨‍💻 **Home Labs :**
 
 ### [**1. Azure et VPN P2S**](https://github.com/Todobeine/Azure-VPN-P2S)
 - **Description :** Configuration d'une connexion VPN Point-to-Site entre Azure et un réseau local, avec des machines virtuelles intégrées à un domaine Active Directory.  
