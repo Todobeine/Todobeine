@@ -10,7 +10,7 @@ Dans ce dépôt, vous trouverez une série de laboratoires et projets qui illust
 
 ## 👨‍💻 **Projets et Laboratoires en IT :**
 
-### [**1. LAB Azure et VPN P2S**](https://github.com/Todobeine/Azure-VPN-P2S)(#)
+### [**1. LAB Azure et VPN P2S**](https://github.com/Todobeine/Azure-VPN-P2S)
 - **Description :** Configuration d'une connexion VPN Point-to-Site entre Azure et un réseau local, avec des machines virtuelles intégrées à un domaine Active Directory.  
 - **Technologies utilisées :** Azure, Windows Server 2019, Windows 10, PowerShell, Active Directory.  
 
