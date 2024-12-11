@@ -7,13 +7,13 @@ Jeune Technicien supérieur systèmes et réseaux passionné par les technologie
 Dans ce dépôt, vous trouverez une série de laboratoires et projets qui illustrent mes compétences techniques et ma capacité à résoudre des défis IT réels grâce à des approches professionnelles.
 
 
-## 👨‍💻 **Home Labs :**
+## 👨‍💻 **Home Labs et Projets de formation  :**
 
 ### [**1. Azure et VPN P2S**](https://github.com/Todobeine/Azure-VPN-P2S)
 - **Description :** Configuration d'une connexion VPN Point-to-Site entre Azure et un réseau local, avec des machines virtuelles intégrées à un domaine Active Directory.  
 - **Technologies utilisées :** Azure, Windows Server 2019, Windows 10, PowerShell, Active Directory.
 
-### [**2. Scripting avec Powershell**](https://github.com/Todobeine/Script-Automatisation-pour-Gestion-et-Deploiement-de-Serveurs-Windows)
+### [**2. Scripting avec Powershell durant ma formation**](https://github.com/Todobeine/Script-Automatisation-pour-Gestion-et-Deploiement-de-Serveurs-Windows)
 - **Description :** Ce script est un outil complet et modulable, idéal pour automatiser et standardiser les tâches d'administration Windows Server.  
 - **Technologies utilisées :** Windows Server 2022, Hyper-V, PowerShell, Visual Studio Code.
 
