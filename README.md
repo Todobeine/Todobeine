@@ -1,7 +1,6 @@
 # Bienvenue sur mon GitHub
 
-Jeune Technicien supérieur systèmes et réseaux passionné par les technologies de l'information, le cloud computing,  et l'administration système. 
-
+Jeune Technicien supérieur systèmes et réseaux passionné par les technologies de l'information.
 
 ## 🎯 **Objectif**
 
