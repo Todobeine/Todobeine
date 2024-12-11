@@ -14,7 +14,7 @@ Dans ce dépôt, vous trouverez une série de laboratoires et projets qui illust
 - **Description :** Configuration d'une connexion VPN Point-to-Site entre Azure et un réseau local, avec des machines virtuelles intégrées à un domaine Active Directory.  
 - **Technologies utilisées :** Azure, Windows Server 2019, Windows 10, PowerShell, Active Directory.
 
-### [**2. Scripting avec Powershell**](#)
+### [**2. Scripting avec Powershell**](https://github.com/Todobeine/Script-Automatisation-pour-Gestion-et-Deploiement-de-Serveurs-Windows)
 - **Description :** Script VM/Activedirectory réaliser durant ma formation de TSSR.  
 - **Technologies utilisées :** Windows Server 2022, Hyper-V, PowerShell, Visual Studio Code.
 
