@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**Todobeine/Todobeine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Jeune Technicien supérieur systèmes et réseaux passionné par les technologies de l'information, le cloud computing,  et l'administration système. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 **Objectif**
+
+Dans ce dépôt, vous trouverez une série de laboratoires et projets qui illustrent mes compétences techniques et ma capacité à résoudre des défis IT réels grâce à des approches professionnelles.
+
+---
+
+## 👨‍💻 **Projets et Laboratoires en IT :**
+
+### [**1. LAB Azure et Networking**](#)
+- **Description :** Configuration d'une connexion VPN Point-to-Site entre Azure et un réseau local, avec des machines virtuelles intégrées à un domaine Active Directory.  
+- **Technologies utilisées :** Azure, PowerShell, Active Directory, Windows Server 2019.  
+
+---
+
+### [**2. Administration Microsoft 365**](#)
+- **Description :** Exploration du Microsoft 365 Admin Center pour la gestion des utilisateurs, des licences, et des politiques de sécurité (MFA, protection contre le phishing, etc.).  
+- **Technologies utilisées :** Microsoft 365, Exchange Online, Teams, PowerShell.  
+
+---
+
+### [**3. Support IT avec Spiceworks**](#)
+- **Description :** Mise en place d'un outil Help Desk (Spiceworks) pour gérer les tickets, suivre les incidents, et créer une base de connaissances interne.  
+- **Technologies utilisées :** Spiceworks, Active Directory, reporting.  
+
+---
+
+## 📦 **Outils et Applications :**
+
+- **Cloud Computing :** Azure, Microsoft 365.  
+- **Administration Système :** Windows Server, RSAT.  
+- **Virtualisation :** VMware Workstation.  
+- **Outils Help Desk :** Spiceworks.  
+- **Scripting :** PowerShell.
+
+---
+
+## 🌐 **Restons Connectés**  
+- **LinkedIn :** https://www.linkedin.com/in/lf33360/(#)  
+- **Email :** lucas.ferrer@lapiscine.pro(#)  
