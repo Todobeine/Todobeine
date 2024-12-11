@@ -15,7 +15,7 @@ Dans ce dépôt, vous trouverez une série de laboratoires et projets qui illust
 - **Technologies utilisées :** Azure, Windows Server 2019, Windows 10, PowerShell, Active Directory.
 
 ### [**2. Scripting avec Powershell**](https://github.com/Todobeine/Script-Automatisation-pour-Gestion-et-Deploiement-de-Serveurs-Windows)
-- **Description :** Script VM/Activedirectory réaliser durant ma formation de TSSR.  
+- **Description :** Ce script est un outil complet et modulable, idéal pour automatiser et standardiser les tâches d'administration Windows Server, tout en favorisant la compréhension des processus sous-jacents pour les utilisateurs en formation ou en début de carrière  
 - **Technologies utilisées :** Windows Server 2022, Hyper-V, PowerShell, Visual Studio Code.
 
 ### [**3. Administration Microsoft 365**](#)
