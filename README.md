@@ -27,7 +27,7 @@ Dans ce dépôt, vous trouverez une série de laboratoires et projets qui illust
 - **Cloud Computing :** Azure, Microsoft 365.  
 - **Administration Système :** Windows Server 2019, Windows 10.  
 - **Virtualisation :** VMware Workstation.  
-- **Outils Help Desk :** Spiceworks.  
+- **Outils Help Desk :** ....  
 
 
 ## 🌐 **Restons Connectés**  
