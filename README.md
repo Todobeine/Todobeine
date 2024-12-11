@@ -12,17 +12,15 @@ Dans ce dépôt, vous trouverez une série de laboratoires et projets qui illust
 
 ### [**1. Azure et VPN P2S**](https://github.com/Todobeine/Azure-VPN-P2S)
 - **Description :** Configuration d'une connexion VPN Point-to-Site entre Azure et un réseau local, avec des machines virtuelles intégrées à un domaine Active Directory.  
-- **Technologies utilisées :** Azure, Windows Server 2019, Windows 10, PowerShell, Active Directory.  
+- **Technologies utilisées :** Azure, Windows Server 2019, Windows 10, PowerShell, Active Directory.
 
+### [**2. Scripting avec Powershell**](#)
+- **Description :** Script VM/Activedirectory réaliser durant ma formation de TSSR.  
+- **Technologies utilisées :** Windows Server 2022, Hyper-V, PowerShell, Visual Studio Code.
 
-### [**2. Administration Microsoft 365**](#)
+### [**3. Administration Microsoft 365**](#)
 - **Description :** Exploration du Microsoft 365 Admin Center pour la gestion des utilisateurs, des licences, et des politiques de sécurité (MFA, protection contre le phishing).  
-- **Technologies utilisées :** Azure, Windows Server 2019, Windows 10, Microsoft 365, Exchange Online, Teams, PowerShell.  
-
-
-### [**3. Support IT avec Spiceworks**](#)
-- **Description :** Mise en place d'un outil Help Desk (Spiceworks) pour gérer les tickets, suivre les incidents, et créer une base de connaissances interne.  
-- **Technologies utilisées :** Azure, Windows Server 2019, Windows 10, Spiceworks, Active Directory.  
+- **Technologies utilisées :** Azure, Windows Server 2019, Windows 10, Microsoft 365, Exchange Online, Teams, PowerShell.   
 
 
 ## 📦 **Outils et Applications :**
