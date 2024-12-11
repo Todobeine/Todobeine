@@ -28,10 +28,9 @@ Dans ce dépôt, vous trouverez une série de laboratoires et projets qui illust
 ## 📦 **Outils et Applications :**
 
 - **Cloud Computing :** Azure, Microsoft 365.  
-- **Administration Système :** Windows Server, RSAT.  
+- **Administration Système :** Windows Server 2019, Windows 10.  
 - **Virtualisation :** VMware Workstation.  
 - **Outils Help Desk :** Spiceworks.  
-- **Scripting :** PowerShell.
 
 
 ## 🌐 **Restons Connectés**  
