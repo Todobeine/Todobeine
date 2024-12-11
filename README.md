@@ -17,10 +17,6 @@ Dans ce dépôt, vous trouverez une série de laboratoires et projets qui illust
 - **Description :** Ce script est un outil complet et modulable, idéal pour automatiser et standardiser les tâches d'administration Windows Server.  
 - **Technologies utilisées :** Windows Server 2022, Hyper-V, PowerShell, Visual Studio Code.
 
-### [**3. Administration Microsoft 365**](#)
-- **Description :** Exploration du Microsoft 365 Admin Center pour la gestion des utilisateurs, des licences, et des politiques de sécurité (MFA, protection contre le phishing).  
-- **Technologies utilisées :** Azure, Windows Server 2019, Windows 10, Microsoft 365, Exchange Online, Teams, PowerShell.   
-
 
 ## 📦 **Outils et Applications :**
 
