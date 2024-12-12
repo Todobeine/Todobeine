@@ -4,7 +4,7 @@ Jeune Technicien supérieur systèmes et réseaux passionné par les technologie
 
 ## 🎯 **Objectif**
 
-Dans ce dépôt, vous trouverez une série de laboratoires et projets qui illustrent mes compétences techniques et mes compétences professionnelles.
+Dans ce dépôt, vous trouverez une série de laboratoires et projets qui illustrent mes compétences techniques.
 
 
 ## 👨‍💻 **Home Labs et Projets de formation  :**
