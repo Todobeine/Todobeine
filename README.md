@@ -10,8 +10,8 @@ Dans ce dépôt, vous trouverez une série de laboratoires et projets qui illust
 ## 👨‍💻 **Home Labs et Projets de formation  :**
 
 ### [**1. Microsoft Azure et VPN P2S**](https://github.com/Todobeine/Azure-VPN-P2S)
-- **Description :** Configuration d'une connexion VPN Point-to-Site entre Azure et un réseau local, avec des machines virtuelles intégrées à un domaine Active Directory.  
-- **Technologies utilisées :** Azure, Windows Server 2019, Windows 10, PowerShell, Active Directory.
+- **Description :** Configuration d'une connexion VPN Point-to-Site entre Azure et un PC Client.  
+- **Technologies utilisées :** Azure, Windows 10, PowerShell.
 
 ### [**2. Scripting avec Powershell durant ma formation**](https://github.com/Todobeine/Script-Automatisation-pour-Gestion-et-Deploiement-de-Serveurs-Windows)
 - **Description :** Ce script est un outil complet et modulable, idéal pour automatiser et standardiser les tâches d'administration Windows Server.  
