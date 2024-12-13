@@ -9,11 +9,11 @@ Dans ce dépôt, vous trouverez une série de laboratoires et projets qui illust
 
 ## 👨‍💻 **Home Labs et Projets de formation  :**
 
-### [**Microsoft Azure VPN P2S**](https://github.com/Todobeine/Azure-VPN-P2S)
+### [**Microsoft Azure VPN P2S**](https://github.com/Todobeine/Azure-Point-to-Site-VPN)
 - **Description :** Configuration d'une connexion VPN Point-to-Site entre Azure et un PC Client.  
 - **Technologies utilisées :** Azure, Windows 10, PowerShell.
 
-### [**Scripting avec Powershell**](https://github.com/Todobeine/Script-Automatisation-pour-Gestion-et-Deploiement-de-Serveurs-Windows)
+### [**Scripting avec Powershell**]()
 - **Description :** Ce script est un outil complet et modulable, idéal pour automatiser et standardiser les tâches d'administration Windows Server.  
 - **Technologies utilisées :** Windows Server 2022, Hyper-V, PowerShell, Visual Studio Code.
 
