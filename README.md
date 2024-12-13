@@ -27,5 +27,5 @@ Dans ce dépôt, vous trouverez une série de laboratoires et projets qui illust
 
 
 ## 🌐 **Restons Connectés**  
-- **LinkedIn :** https://www.linkedin.com/in/lf33360/(#)  
+- **LinkedIn :** https://www.linkedin.com/in/lf33360  
 - **Email :** lucas.ferrer@lapiscine.pro 
