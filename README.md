@@ -13,7 +13,7 @@ Dans ce dépôt, vous trouverez une série de laboratoires et projets qui illust
 - **Description :** Configuration d'une connexion VPN Point-to-Site entre Azure et un PC Client.  
 - **Technologies utilisées :** Azure, Windows 10, PowerShell.
 
-### [**2. Scripting avec Powershell durant ma formation**](https://github.com/Todobeine/Script-Automatisation-pour-Gestion-et-Deploiement-de-Serveurs-Windows)
+### [**2. Scripting avec Powershell **](https://github.com/Todobeine/Script-Automatisation-pour-Gestion-et-Deploiement-de-Serveurs-Windows)
 - **Description :** Ce script est un outil complet et modulable, idéal pour automatiser et standardiser les tâches d'administration Windows Server.  
 - **Technologies utilisées :** Windows Server 2022, Hyper-V, PowerShell, Visual Studio Code.
 
