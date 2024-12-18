@@ -21,9 +21,8 @@ Dans ce dépôt, vous trouverez une série de laboratoires et projets qui illust
 ## 📦 **Outils et Applications :**
 
 - **Cloud Computing :** Azure, Microsoft 365.  
-- **Administration Système :** Windows Server 2019, Windows 10.  
-- **Virtualisation :** VMware Workstation.  
-- **Outils Help Desk :** ....  
+- **Administration Système :** Windows Server 2019/2022, Windows 10.  
+- **Virtualisation :** VMware Workstation.    
 
 
 ## 🌐 **Restons Connectés**  
